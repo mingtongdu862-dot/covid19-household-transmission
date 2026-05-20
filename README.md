@@ -3,7 +3,7 @@
 **Explainable Machine Learning for Within-Household SARS-CoV-2 Secondary Transmission Risk Prediction**
 
 Master's Thesis Project  
-Lund University, 2025
+Lund University, 2026
 
 ## Overview
 
